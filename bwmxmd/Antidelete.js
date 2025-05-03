@@ -1,4 +1,4 @@
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [BEVANSOCEITY QUANTUM EDITION]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
 //  >> Scripted by Sir Ibrahim Adams                                    
